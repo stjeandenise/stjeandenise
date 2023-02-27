@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stjeandenise
-- 👀 I’m interested in infectious disease epidemiology
-- 🌱 I’m currently working on creating my own website using html & css
+- 👀 I’m an epidemiologist & management consultant interested in global health & innovation
+- 🌱 You can find me at the intersection of data & technology in healthcare
 - 📫 Reach me on Twitter for now, @stjeandenise
 
 <!---
